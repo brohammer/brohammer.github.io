@@ -25,10 +25,10 @@ touch_icon:  "img/apple-touch-icon.png"
 ### template colors, used site-wide via css ###
 colors:
   black: '#111111'
+  grey: '#838B8B'
   white: '#f8f8f8'
-  blue: '#49a7e9'
-  green: '#9bcf2f'
-  purple: '#c869bf'
-  orange: '#fab125'
-  turquoise: '#0fbfcf  
-  blue1: '#404479'  
+  blue1: '#4c516d'
+  blue2: '#979aaa'
+  blue3: '#838996'
+  blue4: '#989898'
+  blue5: '#8b8589'
